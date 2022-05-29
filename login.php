@@ -49,6 +49,8 @@
       <a href="signup.php" class="text-center">Buat Akun</a><br>
       <br>
       <a href="index.php"><i class="fa fa-home"></i>Beranda</a>
+      <a href="index.php"><i class="fa fa-home"></i>Data data</a>
+      
   	</div>
 </div>
 	
